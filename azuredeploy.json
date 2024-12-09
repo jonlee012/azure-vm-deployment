@@ -46,4 +46,11 @@
             "properties": {
               "subnet": {
                 "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets', 'myVnet', 'default')]"
-        
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
